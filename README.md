@@ -1,5 +1,4 @@
 # Python Internship Projects
-
 ## 👤 Intern Name
 B.Sree Monya
 
