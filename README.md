@@ -1,7 +1,7 @@
 # Python Internship Projects
 
 ## 👤 Intern Name
-Monya
+B.Sree Monya
 
 ## 🏢 Internship Platform
 Oasis Infobyte
